@@ -13,3 +13,8 @@ Links úteis:
 - https://www.cplusplus.com/reference/algorithm/binary_search/ 
 - https://www.cplusplus.com/reference/algorithm/lower_bound/
 - https://www.cplusplus.com/reference/algorithm/unique/
+
+### Semana 05
+Links de apoio:
+- https://www.cplusplus.com/reference/algorithm/next_permutation/
+- https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
