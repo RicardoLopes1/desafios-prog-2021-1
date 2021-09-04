@@ -50,5 +50,8 @@ Builtin functions of GCC compiler
 - https://www.geeksforgeeks.org/builtin-functions-gcc-compiler/
 
 ### Semana 10 - Segment Tree
-Pasta (ainda não feito)
+Pasta [semana-10](src/semana-10)
 
+- [Range Minimum Query](src/semana-10/Range-Minimum-Query.cpp) não concluído.
+
+> Isso é tudo. Obrigado.
